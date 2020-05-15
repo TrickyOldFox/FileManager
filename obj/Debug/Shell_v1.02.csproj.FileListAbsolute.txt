@@ -1,0 +1,12 @@
+D:\Программирование\C#\Shell_v1.02\bin\Debug\Shell_v1.02.exe.config
+D:\Программирование\C#\Shell_v1.02\bin\Debug\Shell_v1.02.exe
+D:\Программирование\C#\Shell_v1.02\bin\Debug\Shell_v1.02.pdb
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1._02.Properties.Resources.resources
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1.02.csproj.GenerateResource.cache
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1.02.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1.02.exe
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1.02.pdb
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1._02.ShellBrowser.resources
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1.02.csprojAssemblyReference.cache
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1._02.MainForm.resources
+D:\Программирование\C#\Shell_v1.02\obj\Debug\Shell_v1._02.UserControl.resources
